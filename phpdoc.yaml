@@ -13,4 +13,5 @@ journal: |
     - récupération du fichier https://github.com/ecolabdata/guichetdonnees/blob/alhyss-patch-1/organisations/organisations.json
     - ajout des types par orgs.php
     - mise à jour du fichier sur GitHub
+    - manque le territoire de compétence des organisations
     

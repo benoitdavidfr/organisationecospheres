@@ -23,6 +23,7 @@ ddt-45234-01:
     - { key: Téléphone, value: '02 38 52 46 46' }
     - { key: 'Site internet', value: 'https://www.loiret.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement/La-Direction-Departementale-des-Territoires' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D45] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-45234-01.jpg'
   title: 'DDT 45'
 ddt-37261-01:
@@ -50,6 +51,7 @@ ddt-37261-01:
     - { key: Téléphone, value: '02 47 70 80 90' }
     - { key: 'Site internet', value: 'https://www.indre-et-loire.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement/Direction-departementale-des-territoires' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D37] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-37261-01.jpg'
   title: 'DDT 37'
 ddt-56260-01:
@@ -78,6 +80,7 @@ ddt-56260-01:
     - { key: Téléphone, value: '02 97 68 12 00' }
     - { key: 'Site internet', value: 'https://www.morbihan.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement/La-direction-departementale-des-Territoires-et-de-la-Mer-DDTM' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D56] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-56260-01.png'
   title: 'DDTM 56'
 ddt-59350-01:
@@ -106,6 +109,7 @@ ddt-59350-01:
     - { key: Téléphone, value: '03 28 03 83 00' }
     - { key: 'Site internet', value: 'https://www.nord.gouv.fr/Services-de-l-Etat/Agriculture-foret-et-developpement-rural/Direction-departementale-des-territoires-et-de-la-mer-DDTM' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D59] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-59350-01.png'
   title: 'DDTM 59'
 ddt-26362-01:
@@ -133,6 +137,7 @@ ddt-26362-01:
     - { key: Téléphone, value: '04 81 66 80 00' }
     - { key: 'Site internet', value: 'http://www.drome.gouv.fr/direction-departementale-des-territoires-ddt-r1215.html' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D26] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-26362-01.jpg'
   title: 'DDT 26'
 ddt-06088-01:
@@ -161,6 +166,7 @@ ddt-06088-01:
     - { key: Téléphone, value: '04 93 72 72 72' }
     - { key: 'Site internet', value: 'https://www.alpes-maritimes.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement/Direction-departementale-des-territoires-et-de-la-mer-DDTM' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D06] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-06088-01.png'
   title: 'DDTM 06'
 ddt-72181-01:
@@ -188,6 +194,7 @@ ddt-72181-01:
     - { key: Téléphone, value: '02 72 16 41 00' }
     - { key: 'Site internet', value: 'http://www.sarthe.gouv.fr/direction-departementale-des-territoires-a1618.html' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D72] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-72181-01.png'
   title: 'DDT 72'
 ddt-08105-01:
@@ -215,6 +222,7 @@ ddt-08105-01:
     - { key: Téléphone, value: '03 51 16 50 00' }
     - { key: 'Site internet', value: 'http://www.ardennes.gouv.fr/la-direction-departementale-des-territoires-ddt-a2993.html' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D08] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-08105-01.png'
   title: 'DDT 08'
 ddt-57463-01:
@@ -242,6 +250,7 @@ ddt-57463-01:
     - { key: Téléphone, value: '03 87 34 34 34' }
     - { key: 'Site internet', value: 'https://www.moselle.gouv.fr/Services-de-l-Etat/Directions-Departementales/La-Direction-Departementale-des-Territoires' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D57] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-57463-01.png'
   title: 'DDT 57'
 ddt-90010-01:
@@ -269,6 +278,7 @@ ddt-90010-01:
     - { key: Téléphone, value: '03 84 58 86 00' }
     - { key: 'Site internet', value: 'https://www.territoire-de-belfort.gouv.fr/Services-de-l-Etat/Presentation-des-services/Direction-departementale-des-Territoires' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D90] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-90010-01.png'
   title: 'DDT 90'
 ddt-61001-01:
@@ -296,6 +306,7 @@ ddt-61001-01:
     - { key: Téléphone, value: '02 33 32 50 50' }
     - { key: 'Site internet', value: 'http://www.orne.gouv.fr/la-direction-departementale-des-territoires-ddt-r2913.html' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D61] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-61001-01.png'
   title: 'DDT 61'
 ddt-84007-01:
@@ -323,6 +334,7 @@ ddt-84007-01:
     - { key: Téléphone, value: '04 90 80 85 00' }
     - { key: 'Site internet', value: 'http://www.vaucluse.gouv.fr/direction-departementale-des-territoires-de-r2081.html' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D84] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-84007-01.png'
   title: 'DDT 84'
 ddt-23096-01:
@@ -350,6 +362,7 @@ ddt-23096-01:
     - { key: Téléphone, value: '05 55 51 59 00' }
     - { key: 'Site internet', value: 'https://www.creuse.gouv.fr/Services-de-l-Etat/Presentation-des-services/Direction-Departementale-des-Territoires-DDT' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D23] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-23096-01.png'
   title: 'DDT 23'
 ddt-65440-01:
@@ -377,6 +390,7 @@ ddt-65440-01:
     - { key: Téléphone, value: 05.62.56.65.65 }
     - { key: 'Site internet', value: 'http://www.hautes-pyrenees.gouv.fr/direction-departementale-des-territoires-ddt-r865.html' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D65] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-65440-01.png'
   title: 'DDT 65'
 ddt-68066-01:
@@ -404,6 +418,7 @@ ddt-68066-01:
     - { key: Téléphone, value: '03 89 24 81 37' }
     - { key: 'Site internet', value: 'https://www.haut-rhin.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement-La-DDT-et-l-UD-DREAL/Direction-Departementale-des-Territoires/La-DDT-du-Haut-Rhin' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D68] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-68066-01.png'
   title: 'DDT 68'
 ddt-12202-01:
@@ -431,6 +446,7 @@ ddt-12202-01:
     - { key: Téléphone, value: '05 65 73 50 00' }
     - { key: 'Site internet', value: 'http://www.aveyron.gouv.fr/direction-departementale-des-terrritoires-r34.html' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D12] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-12202-01.png'
   title: 'DDT 12'
 ddt-21231-01:
@@ -458,6 +474,7 @@ ddt-21231-01:
     - { key: Téléphone, value: '03 80 29 44 44' }
     - { key: 'Site internet', value: 'http://www.cote-dor.gouv.fr/la-direction-departementale-des-territoires-ddt-r1712.html' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D21] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-21231-01.png'
   title: 'DDT 21'
 ddt-44109-01:
@@ -486,6 +503,7 @@ ddt-44109-01:
     - { key: Téléphone, value: '02 40 67 26 26' }
     - { key: 'Site internet', value: 'https://www.loire-atlantique.gouv.fr/Services-de-l-Etat/Direction-departementale-des-territoires-et-de-la-mer-DDTM' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D44] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-44109-01.png'
   title: 'DDTM 44'
 ddt-22278-01:
@@ -514,6 +532,7 @@ ddt-22278-01:
     - { key: Téléphone, value: '08 21 80 30 22' }
     - { key: 'Site internet', value: 'https://www.cotes-darmor.gouv.fr/Services-de-l-Etat/Les-services-de-l-Etat-dans-les-Cotes-d-Armor/Direction-Departementale-des-Territoires-et-de-la-Mer-DDTM' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D22] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-22278-01.png'
   title: 'DDTM 22'
 ddt-33063-01:
@@ -542,6 +561,7 @@ ddt-33063-01:
     - { key: Téléphone, value: '05 56 93 30 33' }
     - { key: 'Site internet', value: 'https://www.gironde.gouv.fr/Services-de-l-Etat/Prefecture-sous-prefectures-et-DDI/Direction-Departementale-des-Territoires-et-de-la-Mer' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D33] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-33063-01.png'
   title: 'DDTM 33'
 ddt-79191-01:
@@ -569,6 +589,7 @@ ddt-79191-01:
     - { key: Téléphone, value: '05 49 06 88 88' }
     - { key: 'Site internet', value: 'https://www.deux-sevres.gouv.fr/Services-de-l-Etat/Agriculture-eau-environnement-amenagement-logement/Comment-contacter-les-services-de-la-DDT-79' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D79] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-79191-01.png'
   title: 'DDT 79'
 ddt-87085-01:
@@ -596,6 +617,7 @@ ddt-87085-01:
     - { key: Téléphone, value: '05 55 12 90 00' }
     - { key: 'Site internet', value: 'https://www.haute-vienne.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement/Direction-departementale-des-territoires' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D87] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-87085-01.png'
   title: 'DDT 87'
 ddt-15014-01:
@@ -623,6 +645,7 @@ ddt-15014-01:
     - { key: Téléphone, value: '04 63 27 66 00' }
     - { key: 'Site internet', value: 'http://www.cantal.gouv.fr/direction-departementale-des-territoires-ddt-r1285.html' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D15] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-15014-01.png'
   title: 'DDT 15'
 ddt-03321-01:
@@ -650,6 +673,7 @@ ddt-03321-01:
     - { key: Téléphone, value: '04 70 48 79 79' }
     - { key: 'Site internet', value: 'http://www.allier.gouv.fr/direction-departementale-des-territoires-ddt-a254.html' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D03] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-03321-01.png'
   title: 'DDT 03'
 ddt-38185-01:
@@ -677,6 +701,7 @@ ddt-38185-01:
     - { key: Téléphone, value: '04 56 59 46 49' }
     - { key: 'Site internet', value: 'https://www.isere.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement/Direction-departementale-des-territoires' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D38] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-38185-01.png'
   title: 'DDT 38'
 ddt-62041-01:
@@ -705,6 +730,7 @@ ddt-62041-01:
     - { key: Téléphone, value: '03 21 22 99 99' }
     - { key: 'Site internet', value: 'https://www.pas-de-calais.gouv.fr/Services-de-l-Etat/Les-Services-de-l-Etat/DDTM' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D62] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-62041-01.png'
   title: 'DDTM 62'
 ddt-29232-01:
@@ -733,6 +759,7 @@ ddt-29232-01:
     - { key: Téléphone, value: '02 98 76 52 00' }
     - { key: 'Site internet', value: 'https://www.finistere.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement/Direction-departementale-des-territoires-et-de-la-mer-DDTM/La-DDTM' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D29] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-29232-01.png'
   title: 'DDTM 29'
 ddt-78646-01:
@@ -759,6 +786,7 @@ ddt-78646-01:
     - { key: Courriel, value: 'https://www.yvelines.gouv.fr/Services-de-l-Etat/Direction-Departementale-des-Territoires' }
     - { key: Téléphone, value: '01 30 84 30 00' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D78] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-78646-01.png'
   title: 'DDT 78'
 ddt-76540-01:
@@ -787,6 +815,7 @@ ddt-76540-01:
     - { key: Téléphone, value: '02 35 58 53 27' }
     - { key: 'Site internet', value: 'https://www.seine-maritime.gouv.fr/Services-de-l-Etat/Presentation-des-services/L-Etat-en-Seine-Maritime/Les-territoires-et-la-mer/' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D76] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-76540-01.png'
   title: 'DDTM 76'
 ddt-64445-01:
@@ -815,6 +844,7 @@ ddt-64445-01:
     - { key: Téléphone, value: '05 59 80 86 00' }
     - { key: 'Site internet', value: 'https://www.pyrenees-atlantiques.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement/Direction-departementale-des-territoires-et-de-la-mer-DDTM' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D64] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-64445-01.png'
   title: 'DDTM 64'
 ddt-88160-01:
@@ -842,6 +872,7 @@ ddt-88160-01:
     - { key: Téléphone, value: '03 29 69 12 12' }
     - { key: 'Site internet', value: 'https://www.vosges.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement/Direction-Departementale-des-Territoires-DDT' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D88] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-88160-01.png'
   title: 'DDT 88'
 ddt-42218-01:
@@ -869,6 +900,7 @@ ddt-42218-01:
     - { key: Téléphone, value: '04 77 43 80 00' }
     - { key: 'Site internet', value: 'http://www.loire.gouv.fr/direction-departementale-des-territoires-a3160.html' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D42] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-42218-01.png'
   title: 'DDT 42'
 ddt-16015-01:
@@ -896,6 +928,7 @@ ddt-16015-01:
     - { key: Téléphone, value: '05 17 17 37 37' }
     - { key: 'Site internet', value: 'https://www.charente.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement/Direction-departementale-des-territoires' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D16] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-16015-01.png'
   title: 'DDT 16'
 ddt-07186-01:
@@ -923,6 +956,7 @@ ddt-07186-01:
     - { key: Téléphone, value: '04 75 65 50 00' }
     - { key: 'Site internet', value: 'http://www.ardeche.gouv.fr/ddt-direction-departementale-des-territoires-r893.html' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D07] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-07186-01.png'
   title: 'DDT 07'
 ddt-04070-01:
@@ -950,6 +984,7 @@ ddt-04070-01:
     - { key: Téléphone, value: '04 92 30 55 00' }
     - { key: 'Site internet', value: 'https://www.alpes-de-haute-provence.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement/Direction-Departementale-des-Territoires-DDT' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D04] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-04070-01.png'
   title: 'DDT 04'
 ddt-81004-01:
@@ -977,6 +1012,7 @@ ddt-81004-01:
     - { key: Téléphone, value: '05 81 27 50 01' }
     - { key: 'Site internet', value: 'http://www.tarn.gouv.fr/presentation-de-la-direction-departementale-des-r177.html' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D81] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-81004-01.png'
   title: 'DDT 81'
 ddt-39300-01:
@@ -1004,6 +1040,7 @@ ddt-39300-01:
     - { key: Téléphone, value: '03 84 86 80 00' }
     - { key: 'Site internet', value: 'https://www.jura.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement/Direction-departementale-des-territoires' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D39] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-39300-01.png'
   title: 'DDT 39'
 ddt-73065-01:
@@ -1031,6 +1068,7 @@ ddt-73065-01:
     - { key: Téléphone, value: '04 79 71 73 73' }
     - { key: 'Site internet', value: 'https://www.savoie.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement/Direction-Departementale-des-Territoires-DDT' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D73] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-73065-01.png'
   title: 'DDT 73'
 ddt-70550-01:
@@ -1058,6 +1096,7 @@ ddt-70550-01:
     - { key: Téléphone, value: '03 63 37 92 00' }
     - { key: 'Site internet', value: 'https://www.haute-saone.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement-DDT-et-UT-DREAL/DDT' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D70] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-70550-01.png'
   title: 'DDT 70'
 ddt-09122-01:
@@ -1085,6 +1124,7 @@ ddt-09122-01:
     - { key: Téléphone, value: '05 61 02 47 00' }
     - { key: 'Site internet', value: 'https://www.ariege.gouv.fr/Services-de-l-Etat/Direction-Departementale-des-Territoires' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D09] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-09122-01.png'
   title: 'DDT 09'
 ddt-17300-01:
@@ -1113,6 +1153,7 @@ ddt-17300-01:
     - { key: Téléphone, value: '05 16 49 61 00' }
     - { key: 'Site internet', value: 'https://www.charente-maritime.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement/Direction-Departementale-des-Territoires-et-de-la-Mer-DDTM' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D17] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-17300-01.png'
   title: 'DDTM 17'
 ddt-66136-01:
@@ -1141,6 +1182,7 @@ ddt-66136-01:
     - { key: Téléphone, value: '04 68 38 12 34' }
     - { key: 'Site internet', value: 'https://www.pyrenees-orientales.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement/Direction-departementale-des-territoires-et-de-la-mer-DDTM' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D66] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-66136-01.png'
   title: 'DDTM 66'
 ddt-51108-01:
@@ -1168,6 +1210,7 @@ ddt-51108-01:
     - { key: Téléphone, value: '03 26 70 80 00' }
     - { key: 'Site internet', value: 'https://www.marne.gouv.fr/Services-de-l-Etat/Directions-departementales-interministerielles-DDI/DDT' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D51] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-51108-01.png'
   title: 'DDT 51'
 ddt-30189-01:
@@ -1196,6 +1239,7 @@ ddt-30189-01:
     - { key: Téléphone, value: '04 66 62 62 00' }
     - { key: 'Site internet', value: 'https://www.gard.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement/Direction-Departementale-des-Territoires-et-de-la-Mer-DDTM' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D30] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-30189-01.png'
   title: 'DDTM 30'
 ddt-24322-01:
@@ -1223,6 +1267,7 @@ ddt-24322-01:
     - { key: Téléphone, value: 05.53.45.56.00 }
     - { key: 'Site internet', value: 'https://www.dordogne.gouv.fr/Services-de-l-Etat/Les-directions-interministerielles/Direction-departementale-des-territoires' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D24] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-24322-01.png'
   title: 'DDT 24'
 ddt-86194-01:
@@ -1250,6 +1295,7 @@ ddt-86194-01:
     - { key: Téléphone, value: '05 49 03 13 00' }
     - { key: 'Site internet', value: 'https://www.vienne.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement/DDT' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D86] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-86194-01.png'
   title: 'DDT 86'
 ddt-49007-01:
@@ -1277,6 +1323,7 @@ ddt-49007-01:
     - { key: Téléphone, value: '02 41 86 65 00' }
     - { key: 'Site internet', value: 'http://www.maine-et-loire.gouv.fr/ddt-direction-departementale-des-territoires-r760.html' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D49] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-49007-01.png'
   title: 'DDT 49'
 ddt-77288-01:
@@ -1304,6 +1351,7 @@ ddt-77288-01:
     - { key: Téléphone, value: '01 60 56 71 71' }
     - { key: 'Site internet', value: 'https://www.seine-et-marne.gouv.fr/Services-de-l-Etat/Direction-Departementale-des-Territoires-DDT' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D77] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-77288-01.png'
   title: 'DDT 77'
 ddt-40192-01:
@@ -1332,6 +1380,7 @@ ddt-40192-01:
     - { key: Téléphone, value: '05 58 51 30 00' }
     - { key: 'Site internet', value: 'http://www.landes.gouv.fr/direction-departementale-des-territoires-et-de-la-r273.html' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D40] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-40192-01.png'
   title: 'DDTM 40'
 ddt-60057-01:
@@ -1359,6 +1408,7 @@ ddt-60057-01:
     - { key: Téléphone, value: '03 44 06 50 00' }
     - { key: 'Site internet', value: 'http://www.oise.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement#' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D60] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-60057-01.png'
   title: 'DDT 60'
 ddt-85191-01:
@@ -1387,6 +1437,7 @@ ddt-85191-01:
     - { key: Téléphone, value: '02 51 44 32 32' }
     - { key: 'Site internet', value: 'http://www.vendee.gouv.fr/la-direction-departementale-des-territoires-et-de-r61.html' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D85] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-85191-01.png'
   title: 'DDTM 85'
 ddt-14118-01:
@@ -1415,6 +1466,7 @@ ddt-14118-01:
     - { key: Téléphone, value: '02 31 43 15 00' }
     - { key: 'Site internet', value: 'http://www.calvados.gouv.fr/la-direction-departementale-des-territoires-et-de-a1951.html' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D14] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-14118-01.png'
   title: 'DDTM 14'
 ddt-52121-01:
@@ -1442,6 +1494,7 @@ ddt-52121-01:
     - { key: Téléphone, value: '03 25 30 79 79' }
     - { key: 'Site internet', value: 'https://www.haute-marne.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement/Direction-departementale-des-Territoires' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D52] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-52121-01.png'
   title: 'DDT 52'
 ddt-02408-01:
@@ -1469,6 +1522,7 @@ ddt-02408-01:
     - { key: Téléphone, value: '03 23 24 64 00' }
     - { key: 'Site internet', value: 'https://www.aisne.gouv.fr/Services-de-l-Etat/Presentation-des-services/Direction-Departementale-des-Territoires-DDT' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D02] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-02408-01.png'
   title: 'DDT 02'
 ddt-28085-01:
@@ -1496,6 +1550,7 @@ ddt-28085-01:
     - { key: Téléphone, value: '02 37 20 40 60' }
     - { key: 'Site internet', value: 'https://www.eure-et-loir.gouv.fr/Services-de-l-Etat/Presentation-des-services/Direction-Departementale-des-Territoires-DDT' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D28] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-28085-01.png'
   title: 'DDT 28'
 ddt-74010-01:
@@ -1523,6 +1578,7 @@ ddt-74010-01:
     - { key: Téléphone, value: '04 50 33 78 00' }
     - { key: 'Site internet', value: 'https://www.haute-savoie.gouv.fr/Services-de-l-Etat/Direction-departementale-des-territoires/DDT' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D74] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-74010-01.png'
   title: 'DDT 74'
 ddt-83137-01:
@@ -1551,6 +1607,7 @@ ddt-83137-01:
     - { key: Téléphone, value: '04 94 46 83 83' }
     - { key: 'Site internet', value: 'http://www.var.gouv.fr/agriculture-maritime-environnement-amenagement-et-r564.html' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D83] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-83137-01.png'
   title: 'DDTM 83'
 ddt-05061-01:
@@ -1578,6 +1635,7 @@ ddt-05061-01:
     - { key: Téléphone, value: '04 92 40 35 00' }
     - { key: 'Site internet', value: 'http://www.hautes-alpes.gouv.fr/direction-departementale-des-territoires-des-r933.html' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D05] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-05061-01.png'
   title: 'DDT 05'
 ddt-13055-01:
@@ -1606,6 +1664,7 @@ ddt-13055-01:
     - { key: Téléphone, value: '04 91 28 40 40' }
     - { key: 'Site internet', value: 'https://www.bouches-du-rhone.gouv.fr/Services-de-l-Etat/Les-directions-departementales-DD/La-direction-departementale-des-territoires-et-de-la-mer-DDTM' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D13] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-13055-01.png'
   title: 'DDTM 13'
 ddt-53130-01:
@@ -1633,6 +1692,7 @@ ddt-53130-01:
     - { key: Téléphone, value: '02 43 67 87 00' }
     - { key: 'Site internet', value: 'https://www.mayenne.gouv.fr/Services-de-l-Etat/Les-services-de-l-Etat-en-Mayenne/Direction-departementale-des-territoires-DDT' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D53] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-53130-01.png'
   title: 'DDT 53'
 ddt-80021-01:
@@ -1661,6 +1721,7 @@ ddt-80021-01:
     - { key: Téléphone, value: '03 64 57 24 00' }
     - { key: 'Site internet', value: 'https://www.somme.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement/Direction-departementale-des-territoires-et-de-la-mer-de-la-Somme-DDTM-80' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D80] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-80021-01.png'
   title: 'DDTM 80'
 ddt-10387-01:
@@ -1688,6 +1749,7 @@ ddt-10387-01:
     - { key: Téléphone, value: '03 25 71 18 00' }
     - { key: 'Site internet', value: 'https://www.aube.gouv.fr/Services-de-l-Etat/Direction-Departementale-des-Territoires' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D10] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-10387-01.png'
   title: 'DDT 10'
 ddt-27229-01:
@@ -1716,6 +1778,7 @@ ddt-27229-01:
     - { key: Téléphone, value: '02 32 29 60 60' }
     - { key: 'Site internet', value: 'https://www.eure.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement/Direction-departementale-des-territoires-et-de-la-mer-DDTM' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D27] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-27229-01.png'
   title: 'DDTM 27'
 ddt-11069-01:
@@ -1744,6 +1807,7 @@ ddt-11069-01:
     - { key: Téléphone, value: '04 68 10 31 00' }
     - { key: 'Site internet', value: 'http://www.aude.gouv.fr/direction-departementale-des-territoires-et-de-la-a16.html' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D11] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-11069-01.png'
   title: 'DDTM 11'
 ddt-48095-01:
@@ -1771,6 +1835,7 @@ ddt-48095-01:
     - { key: Téléphone, value: '04 66 49 41 00' }
     - { key: 'Site internet', value: 'https://www.lozere.gouv.fr/Services-de-l-Etat/Agriculture-Environnement-Amenagements-et-Logement/La-Direction-Departementale-des-Territoires' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D48] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-48095-01.png'
   title: 'DDT 48'
 ddt-41018-01:
@@ -1798,6 +1863,7 @@ ddt-41018-01:
     - { key: Téléphone, value: '02 54 55 73 50' }
     - { key: 'Site internet', value: 'https://www.loir-et-cher.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement/DDT' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D41] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-41018-01.png'
   title: 'DDT 41'
 ddt-32013-01:
@@ -1825,6 +1891,7 @@ ddt-32013-01:
     - { key: Téléphone, value: '05 62 61 46 46' }
     - { key: 'Site internet', value: 'http://www.gers.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D32] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-32013-01.png'
   title: 'DDT 32'
 ddt-25056-01:
@@ -1852,6 +1919,7 @@ ddt-25056-01:
     - { key: Téléphone, value: '03 81 65 62 62' }
     - { key: 'Site internet', value: 'https://www.doubs.gouv.fr/Services-de-l-Etat/Agriculture-Environnement-Amenagement-et-Logement/Direction-Departementale-des-Territoires' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D25] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-25056-01.png'
   title: 'DDT 25'
 ddt-89024-01:
@@ -1879,6 +1947,7 @@ ddt-89024-01:
     - { key: Téléphone, value: '03 86 48 41 00' }
     - { key: 'Site internet', value: 'https://www.yonne.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement/Direction-departementale-des-Territoires-DDT' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D89] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-89024-01.png'
   title: 'DDT 89'
 ddt-58194-01:
@@ -1906,6 +1975,7 @@ ddt-58194-01:
     - { key: Téléphone, value: '03 86 71 71 71' }
     - { key: 'Site internet', value: 'http://www.nievre.gouv.fr/la-direction-departementale-des-territoires-ddt-r308.html' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D58] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-58194-01.png'
   title: 'DDT 58'
 ddt-50502-01:
@@ -1934,6 +2004,7 @@ ddt-50502-01:
     - { key: Téléphone, value: '02 33 06 39 00' }
     - { key: 'Site internet', value: 'https://www.manche.gouv.fr/Services-de-l-Etat/Agriculture-Environnement-Amenagement-et-Logement/DDTM' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D50] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-50502-01.png'
   title: 'DDTM 50'
 ddt-95127-01:
@@ -1961,6 +2032,7 @@ ddt-95127-01:
     - { key: Téléphone, value: '01 34 25 25 00' }
     - { key: 'Site internet', value: 'http://www.val-doise.gouv.fr' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D95] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-95127-01.png'
   title: 'DDT 95'
 ddt-55029-01:
@@ -1988,6 +2060,7 @@ ddt-55029-01:
     - { key: Téléphone, value: '03 29 79 48 65' }
     - { key: 'Site internet', value: 'https://www.meuse.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement/La-Direction-Departementale-des-Territoires' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D55] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-55029-01.png'
   title: 'DDT 55'
 ddt-01053-01:
@@ -2015,6 +2088,7 @@ ddt-01053-01:
     - { key: Téléphone, value: '04 74 45 62 37' }
     - { key: 'Site internet', value: 'http://www.ain.gouv.fr/direction-departementale-des-territoires-r655.html' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D01] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-01053-01.png'
   title: 'DDT 01'
 ddt-82121-01:
@@ -2042,6 +2116,7 @@ ddt-82121-01:
     - { key: Téléphone, value: '05 63 22 23 24' }
     - { key: 'Site internet', value: 'https://www.tarn-et-garonne.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement/La-direction-departementale-des-territoires-DDT' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D82] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-82121-01.png'
   title: 'DDT 82'
 ddt-36044-01:
@@ -2069,6 +2144,7 @@ ddt-36044-01:
     - { key: Téléphone, value: '02 54 53 20 36' }
     - { key: 'Site internet', value: 'https://www.indre.gouv.fr/Services-de-l-Etat/Agriculture-environnement/Direction-Departementale-des-Territoires' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D36] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-36044-01.png'
   title: 'DDT 36'
 ddt-46042-01:
@@ -2096,6 +2172,7 @@ ddt-46042-01:
     - { key: Téléphone, value: '05 65 23 60 60' }
     - { key: 'Site internet', value: 'http://www.lot.gouv.fr/direction-departementale-des-territoires-r3670.html' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D46] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-46042-01.png'
   title: 'DDT 46'
 ddt-71270-01:
@@ -2123,6 +2200,7 @@ ddt-71270-01:
     - { key: Téléphone, value: '03 85 21 28 00' }
     - { key: 'Site internet', value: 'http://www.saone-et-loire.gouv.fr/direction-departementale-des-territoires-ddt-r2279.html' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D71] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-71270-01.png'
   title: 'DDT 71'
 ddt-35238-01:
@@ -2151,6 +2229,7 @@ ddt-35238-01:
     - { key: Téléphone, value: '02 90 02 32 00' }
     - { key: 'Site internet', value: 'https://www.ille-et-vilaine.gouv.fr/Services-de-l-Etat/Direction-departementale-des-territoires-et-de-la-mer' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D35] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-35238-01.png'
   title: 'DDTM 35'
 ddt-43157-01:
@@ -2177,6 +2256,7 @@ ddt-43157-01:
     - { key: Courriel, value: ddt@haute-loire.gouv.fr }
     - { key: Téléphone, value: '04 71 05 84 00' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D43] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-43157-01.jpg'
   title: 'DDT 43'
 ddt-19272-01:
@@ -2204,6 +2284,7 @@ ddt-19272-01:
     - { key: Téléphone, value: '05 55 21 83 13' }
     - { key: 'Site internet', value: 'https://www.correze.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement/Direction-departementale-des-territoires-DDT' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D19] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-19272-01.png'
   title: 'DDT 19'
 ddt-91228-01:
@@ -2231,6 +2312,7 @@ ddt-91228-01:
     - { key: Téléphone, value: '01 60 76 32 00' }
     - { key: 'Site internet', value: 'https://www.essonne.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement/Direction-Departementale-des-Territoires' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D91] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-91228-01.png'
   title: 'DDT 91'
 ddt-47001-01:
@@ -2258,6 +2340,7 @@ ddt-47001-01:
     - { key: Téléphone, value: '05 53 69 32 76' }
     - { key: 'Site internet', value: 'http://www.lot-et-garonne.gouv.fr/direction-departementale-des-territoires-a96.html' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D47] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-47001-01.png'
   title: 'DDT 47'
 ddt-69383-01:
@@ -2285,6 +2368,7 @@ ddt-69383-01:
     - { key: Téléphone, value: '04 78 62 50 50' }
     - { key: 'Site internet', value: 'https://www.rhone.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement/Direction-departementale-des-Territoires-DDT' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D69] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-69383-01.png'
   title: 'DDT 69'
 ddt-63113-01:
@@ -2312,6 +2396,7 @@ ddt-63113-01:
     - { key: Téléphone, value: '04 73 43 16 00' }
     - { key: 'Site internet', value: 'http://www.puy-de-dome.gouv.fr/ddt-direction-departementale-des-territoires-du-r949.html' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D63] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-63113-01.png'
   title: 'DDT 63'
 ddt-67482-01:
@@ -2339,6 +2424,7 @@ ddt-67482-01:
     - { key: Téléphone, value: '03 88 88 91 00' }
     - { key: 'Site internet', value: 'https://www.bas-rhin.gouv.fr/Services-de-l-Etat/Presentation-des-services/Directions-Departementales-Interministerielles-DDI/DDT' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D67] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-67482-01.png'
   title: 'DDT 67'
 ddt-34172-01:
@@ -2367,6 +2453,7 @@ ddt-34172-01:
     - { key: Téléphone, value: '04 34 46 60 00' }
     - { key: 'Site internet', value: 'https://www.herault.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement/Direction-Departementale-des-Territoires-et-de-la-Mer-de-l-Herault-DDTM-34' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D34] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-34172-01.png'
   title: 'DDTM 34'
 ddt-31555-01:
@@ -2394,6 +2481,7 @@ ddt-31555-01:
     - { key: Téléphone, value: '05 81 97 71 00' }
     - { key: 'Site internet', value: 'https://www.haute-garonne.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement/Direction-Departementale-des-Territoires' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D31] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-31555-01.png'
   title: 'DDT 31'
 ddt-18033-01:
@@ -2421,6 +2509,7 @@ ddt-18033-01:
     - { key: Téléphone, value: '02 34 34 61 00' }
     - { key: 'Site internet', value: 'https://www.cher.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement/DDT' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D18] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-18033-01.png'
   title: 'DDT 18'
 ddt-54395-01:
@@ -2448,6 +2537,7 @@ ddt-54395-01:
     - { key: Téléphone, value: '03 83 91 40 00' }
     - { key: 'Site internet', value: 'https://www.meurthe-et-moselle.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement/Direction-departementale-des-territoires/Direction-departementale-des-territoires' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D54] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/ddt-54395-01.png'
   title: 'DDT 54'
 dreal-45234-01:
@@ -2485,6 +2575,7 @@ dreal-45234-01:
     - { key: Téléphone, value: '02 36 17 41 41' }
     - { key: 'Site internet', value: 'http://www.centre.developpement-durable.gouv.fr' }
     - { key: Type, value: DR }
+    - { key: Territoire, value: [CVL] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/dreal-45234-01.jpg'
   title: 'DREAL Centre-Val-de-Loire'
 dreal-59350-01:
@@ -2522,6 +2613,7 @@ dreal-59350-01:
     - { key: Téléphone, value: '03 20 13 48 48' }
     - { key: 'Site internet', value: 'http://www.hauts-de-france.developpement-durable.gouv.fr/' }
     - { key: Type, value: DR }
+    - { key: Territoire, value: [HDF] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/dreal-59350-01.png'
   title: 'DREAL Hauts-de-France'
 dreal-57463-01:
@@ -2559,6 +2651,7 @@ dreal-57463-01:
     - { key: Téléphone, value: '03 87 62 81 00' }
     - { key: 'Site internet', value: 'http://www.grand-est.developpement-durable.gouv.fr/' }
     - { key: Type, value: DR }
+    - { key: Territoire, value: [GES] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/dreal-57463-01.png'
   title: 'DREAL Grand Est'
 dreal-44109-01:
@@ -2596,6 +2689,7 @@ dreal-44109-01:
     - { key: Téléphone, value: '02 72 74 73 00' }
     - { key: 'Site internet', value: 'http://www.pays-de-la-loire.developpement-durable.gouv.fr' }
     - { key: Type, value: DR }
+    - { key: Territoire, value: [PDL] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/dreal-44109-01.png'
   title: 'DREAL Pays de la Loire'
 dreal-76540-01:
@@ -2633,6 +2727,7 @@ dreal-76540-01:
     - { key: Téléphone, value: '02 35 58 52 80' }
     - { key: 'Site internet', value: 'http://www.normandie.developpement-durable.gouv.fr/' }
     - { key: Type, value: DR }
+    - { key: Territoire, value: [NOR] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/dreal-76540-01.png'
   title: 'DREAL Normandie'
 dreal-86194-01:
@@ -2670,6 +2765,7 @@ dreal-86194-01:
     - { key: Téléphone, value: '05 49 55 63 63' }
     - { key: 'Site internet', value: 'http://www.nouvelle-aquitaine.developpement-durable.gouv.fr/' }
     - { key: Type, value: DR }
+    - { key: Territoire, value: [NAQ] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/dreal-86194-01.png'
   title: 'DREAL Nouvelle-Aquitaine'
 dreal-13202-01:
@@ -2706,6 +2802,7 @@ dreal-13202-01:
     - { key: Téléphone, value: '04 91 28 40 40' }
     - { key: 'Site internet', value: 'http://www.paca.developpement-durable.gouv.fr' }
     - { key: Type, value: DR }
+    - { key: Territoire, value: [PAC] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/dreal-13202-01.png'
   title: "DREAL Provence-Alpes-Côte-d'Azur"
 dreal-25056-01:
@@ -2743,6 +2840,7 @@ dreal-25056-01:
     - { key: Téléphone, value: '03 81 21 67 00' }
     - { key: 'Site internet', value: 'http://www.bourgogne-franche-comte.developpement-durable.gouv.fr/' }
     - { key: Type, value: DR }
+    - { key: Territoire, value: [BFC] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/dreal-25056-01.png'
   title: 'DREAL Bourgogne-Franche-Comté'
 dreal-2a004-01:
@@ -2780,6 +2878,7 @@ dreal-2a004-01:
     - { key: Téléphone, value: '04 95 51 79 70' }
     - { key: 'Site internet', value: 'http://www.corse.developpement-durable.gouv.fr' }
     - { key: Type, value: DR }
+    - { key: Territoire, value: [COR] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/dreal-2a004-01.png'
   title: 'DREAL Corse'
 dreal-35238-01:
@@ -2817,6 +2916,7 @@ dreal-35238-01:
     - { key: Téléphone, value: '02 99 33 45 55' }
     - { key: 'Site internet', value: 'http://www.bretagne.developpement-durable.gouv.fr' }
     - { key: Type, value: DR }
+    - { key: Territoire, value: [BRE] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/dreal-35238-01.png'
   title: 'DREAL Bretagne'
 dreal-69386-01:
@@ -2854,6 +2954,7 @@ dreal-69386-01:
     - { key: Téléphone, value: '04 26 28 60 00' }
     - { key: 'Site internet', value: 'http://www.auvergne-rhone-alpes.developpement-durable.gouv.fr' }
     - { key: Type, value: DR }
+    - { key: Territoire, value: [ARA] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/dreal-69386-01.png'
   title: 'DREAL Auvergne-Rhône-Alpes'
 dreal-31555-01:
@@ -2891,6 +2992,7 @@ dreal-31555-01:
     - { key: Téléphone, value: '05 61 58 50 00' }
     - { key: 'Site internet', value: 'http://www.occitanie.developpement-durable.gouv.fr/' }
     - { key: Type, value: DR }
+    - { key: Territoire, value: [OCC] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/dreal-31555-01.png'
   title: 'DREAL Occitanie'
 driea-75115-01:
@@ -2900,6 +3002,7 @@ driea-75115-01:
     - { key: Téléphone, value: '01 40 61 80 80' }
     - { key: 'Site internet', value: 'http://www.driea.ile-de-france.developpement-durable.gouv.fr' }
     - { key: Type, value: DIRID }
+    - { key: Territoire, value: [IDF] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/driea-75115-01.png'
   description: |-
     ## Direction régionale et interdépartementale de l'environnement, de l'aménagement et des transports - Île-de-France.
@@ -2935,6 +3038,7 @@ driea_ut-93008-01:
     - { key: Téléphone, value: '01 41 60 67 00' }
     - { key: 'Site internet', value: 'http://www.driea.ile-de-france.developpement-durable.gouv.fr' }
     - { key: Type, value: DIRID }
+    - { key: Territoire, value: [D93] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/driea_ut-93008-01.png'
   description: |-
     ## Direction régionale et interdépartementale de l'environnement, de l'aménagement et des transports - Île-de-France - Unité départementale de Seine-Saint-Denis.
@@ -2972,6 +3076,7 @@ driea_ut-92050-01:
     - { key: Téléphone, value: '01 40 97 29 06' }
     - { key: 'Site internet', value: 'http://www.driea.ile-de-france.developpement-durable.gouv.fr' }
     - { key: Type, value: DIRID }
+    - { key: Territoire, value: [D92] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/driea_ut-92050-01.png'
   description: |-
     ## Direction régionale et interdépartementale de l'environnement, de l'aménagement et des transports - Île-de-France - Unité départementale des Hauts-de-Seine.
@@ -3009,6 +3114,7 @@ driea_ut-75115-01:
     - { key: Téléphone, value: '01 82 52 48 40' }
     - { key: 'Site internet', value: 'http://www.driea.ile-de-france.developpement-durable.gouv.fr' }
     - { key: Type, value: DIRID }
+    - { key: Territoire, value: [D75] }
   description: |-
     ## Direction régionale et interdépartementale de l'environnement, de l'aménagement et des transports - Île-de-France - Unité départementale de Paris.
 
@@ -3047,6 +3153,7 @@ driea_ut-94028-01:
     - { key: Téléphone, value: '01 49 80 21 00' }
     - { key: 'Site internet', value: 'http://www.driea.ile-de-france.developpement-durable.gouv.fr' }
     - { key: Type, value: DIRID }
+    - { key: Territoire, value: [D94] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/driea_ut-94028-01.png'
   description: |-
     ## Direction régionale et interdépartementale de l'environnement, de l'aménagement et des transports - Île-de-France - Unité départementale du Val-de-Marne.
@@ -3085,6 +3192,7 @@ dreal_ut-97302-01:
     - { key: Téléphone, value: '+594 5 94 39 80 00' }
     - { key: 'Site internet', value: www.guyane.developpement-durable.gouv.fr }
     - { key: Type, value: SOM }
+    - { key: Territoire, value: [GUF] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/dreal_ut-97302-01.png'
   description: |-
     ## Direction de l'environnement, de l'aménagement et du logement - Guyane.
@@ -3123,6 +3231,7 @@ dreal_ut-97229-01:
     - { key: Téléphone, value: '+596 5 96 59 57 00' }
     - { key: 'Site internet', value: 'http://www.martinique.developpement-durable.gouv.fr' }
     - { key: Type, value: SOM }
+    - { key: Territoire, value: [MTQ] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/dreal_ut-97229-01.png'
   description: |-
     ## Direction de l'environnement, de l'aménagement et du logement - Martinique.
@@ -3160,6 +3269,7 @@ dreal_ut-97105-01:
     - { key: Téléphone, value: '+590 5 90 99 46 46' }
     - { key: 'Site internet', value: 'http://www.guadeloupe.developpement-durable.gouv.fr' }
     - { key: Type, value: SOM }
+    - { key: Territoire, value: [GLP] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/dreal_ut-97105-01.png'
   description: |-
     ## Direction de l'environnement, de l'aménagement et du logement - Guadeloupe.
@@ -3198,6 +3308,7 @@ dreal_ut-97411-01:
     - { key: Téléphone, value: '+262 2 62 40 26 26' }
     - { key: 'Site internet', value: 'http://www.reunion.developpement-durable.gouv.fr' }
     - { key: Type, value: SOM }
+    - { key: Territoire, value: [REU] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/dreal_ut-97411-01.png'
   description: |-
     ## Direction de l'environnement, de l'aménagement et du logement - Réunion.
@@ -3235,6 +3346,7 @@ dreal_ut-97611-01:
     - { key: Téléphone, value: '+269 2 69 61 12 54' }
     - { key: 'Site internet', value: 'http://www.mayotte.gouv.fr/Services-de-l-Etat/Direction-de-l-Environnement-de-l-Amenagement-et-du-Logement-DEAL' }
     - { key: Type, value: SOM }
+    - { key: Territoire, value: [MYT] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/dreal_ut-97611-01.png'
   description: |-
     ## Direction de l'environnement, de l'aménagement et du logement - Mayotte.
@@ -3273,6 +3385,7 @@ drihl-75056-01:
     - { key: Téléphone, value: '01 82 52 40 00' }
     - { key: 'Site internet', value: 'http://www.drihl.ile-de-france.developpement-durable.gouv.fr' }
     - { key: Type, value: DIRID }
+    - { key: Territoire, value: [IDF] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/drihl-75056-01.png'
   description: |-
     ## Direction régionale et interdépartementale de l'hébergement et du logement - Île-de-France.
@@ -3295,6 +3408,7 @@ dtam-97502-01:
     - { key: Téléphone, value: '+508 41 12 00' }
     - { key: 'Site internet', value: 'http://www.saint-pierre-et-miquelon.developpement-durable.gouv.fr' }
     - { key: Type, value: SOM }
+    - { key: Territoire, value: [SPM] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/dtam-97502-01.png'
   description: |-
     ## Direction des territoires, de l'alimentation et de la mer - Saint-Pierre-et-Miquelon.
@@ -3334,6 +3448,7 @@ did_routes-33063-01:
     - { key: Téléphone, value: '05 57 81 64 90' }
     - { key: 'Site internet', value: 'http://www.dir.atlantique.developpement-durable.gouv.fr' }
     - { key: Type, value: DIRID }
+    - { key: Territoire, value: [D16, D17, D33, D64, D79, D86] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/did_routes.png'
   description: |-
     ## Direction interdépartementale des routes - Atlantique.
@@ -3350,6 +3465,7 @@ did_routes-69383-01:
     - { key: Téléphone, value: '04 69 16 62 00' }
     - { key: 'Site internet', value: 'http://www.dir.centre-est.developpement-durable.gouv.fr' }
     - { key: Type, value: DIRID }
+    - { key: Territoire, value: [D01, D03, D07, D10, D21, D26, D38, D42, D58, D69, D71, D73, D74, D89] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/did_routes.png'
   description: |-
     ## Direction interdépartementale des routes - Centre-Est.
@@ -3366,6 +3482,7 @@ did_routes-87085-01:
     - { key: Téléphone, value: '05 87 50 60 00' }
     - { key: 'Site internet', value: 'http://www.dir.centre-ouest.developpement-durable.gouv.fr' }
     - { key: Type, value: DIRID }
+    - { key: Territoire, value: [D03, D16, D18, D19, D23, D24, D36, D37, D47, D49, D79, D86, D87] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/did_routes.png'
   description: |-
     ## Direction interdépartementale des routes - Centre-Ouest.
@@ -3382,6 +3499,7 @@ did_routes-54395-01:
     - { key: Téléphone, value: '03 83 50 96 00' }
     - { key: 'Site internet', value: 'http://www.dir.est.developpement-durable.gouv.fr' }
     - { key: Type, value: DIRID }
+    - { key: Territoire, value: [D25, D39, D51, D52, D54, D55, D57, D70, D88, D90] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/did_routes.png'
   description: |-
     ## Direction interdépartementale des routes - Est.
@@ -3398,6 +3516,7 @@ did_routes-63113-01:
     - { key: Téléphone, value: '04 73 29 79 79' }
     - { key: 'Site internet', value: 'http://www.dir-mc.fr' }
     - { key: Type, value: DIRID }
+    - { key: Territoire, value: [D07, D12, D15, D34, D43, D46, D48, D63] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/did_routes.png'
   description: |-
     ## Direction interdépartementale des routes - Massif central.
@@ -3414,6 +3533,7 @@ did_routes-13201-01:
     - { key: Téléphone, value: '04 91 28 40 68' }
     - { key: 'Site internet', value: 'http://www.dir.mediterranee.developpement-durable.gouv.fr' }
     - { key: Type, value: DIRID }
+    - { key: Territoire, value: [D04, D05, D13, D30, D34, D38, D48, D83, D84] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/did_routes.png'
   description: |-
     ## Direction interdépartementale des routes - Méditerranée.
@@ -3430,6 +3550,7 @@ did_routes-59350-01:
     - { key: Téléphone, value: '03 20 49 63 44' }
     - { key: 'Site internet', value: 'http://www.dir.nord.developpement-durable.gouv.fr' }
     - { key: Type, value: DIRID }
+    - { key: Territoire, value: [D02, D08, D51, D59, D60, D62, D80] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/did_routes.png'
   description: |-
     ## Direction interdépartementale des routes - Nord.
@@ -3446,6 +3567,7 @@ did_routes-76540-01:
     - { key: Téléphone, value: '02 76 00 03 60' }
     - { key: 'Site internet', value: 'http://www.dir.nord-ouest.developpement-durable.gouv.fr/' }
     - { key: Type, value: DIRID }
+    - { key: Territoire, value: [D14, D27, D28, D37, D41, D50, D60, D61, D76, D78, D80] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/did_routes.png'
   description: |-
     ## Direction interdépartementale des routes - Nord-Ouest.
@@ -3462,6 +3584,7 @@ did_routes-35238-01:
     - { key: Téléphone, value: '02 99 33 46 52' }
     - { key: 'Site internet', value: 'http://www.dir.ouest.developpement-durable.gouv.fr' }
     - { key: Type, value: DIRID }
+    - { key: Territoire, value: [D22, D29, D35, D44, D49, D53, D56] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/did_routes.png'
   description: |-
     ## Direction interdépartementale des routes - Ouest.
@@ -3478,6 +3601,7 @@ did_routes-31555-01:
     - { key: Téléphone, value: '05 61 58 59 70' }
     - { key: 'Site internet', value: 'http://www.dir-sud-ouest.fr' }
     - { key: Type, value: DIRID }
+    - { key: Territoire, value: [D09, D31, D32, D33, D40, D65, D66, D81] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/did_routes.png'
   description: |-
     ## Direction interdépartementale des routes - Sud-Ouest.
@@ -3493,6 +3617,7 @@ did_routes-94028-01:
     - { key: Téléphone, value: '01 46 76 87 00' }
     - { key: 'Site internet', value: 'http://www.enroute.ile-de-france.developpement-durable.gouv.fr' }
     - { key: Type, value: DIRID }
+    - { key: Territoire, value: [D75, D77, D78, D91, D92, D93, D94, D95] }
   image_url: 'https://raw.githubusercontent.com/ecolabdata/guichetdonnees-public/main/organisations/logos/did_routes.png'
   description: |-
     ## Direction des routes - Île-de-France.
@@ -3509,6 +3634,7 @@ dir_mer-13202-01:
     - { key: Téléphone, value: '04 86 94 67 27' }
     - { key: 'Site internet', value: 'http://www.dirm.mediterranee.developpement-durable.gouv.fr' }
     - { key: Type, value: DIRID }
+    - { key: Territoire, value: [ZM-FX-Med] }
   description: |-
     ## Direction interrégionale de la mer - Méditerranée.
 
@@ -3534,6 +3660,7 @@ dir_mer-76351-01:
     - { key: Téléphone, value: '02 35 19 29 99' }
     - { key: 'Site internet', value: 'http://www.dirm-memn.developpement-durable.gouv.fr' }
     - { key: Type, value: DIRID }
+    - { key: Territoire, value: [ZM-FX-MMN] }
   description: |-
     ## Direction interrégionale de la mer - Manche-Est, Mer-du-Nord.
 
@@ -3559,6 +3686,7 @@ dir_mer-33063-01:
     - { key: Téléphone, value: '05 56 00 83 00' }
     - { key: 'Site internet', value: 'http://www.dirm.sud-atlantique.developpement-durable.gouv.fr' }
     - { key: Type, value: DIRID }
+    - { key: Territoire, value: [ZM-FX-Atl] }
   description: |-
     ## Direction interrégionale de la mer - Sud-Atlantique.
 
@@ -3584,6 +3712,7 @@ dir_mer-44109-01:
     - { key: Téléphone, value: '02 40 44 81 10' }
     - { key: 'Site internet', value: 'http://www.dirm.nord-atlantique-manche-ouest.developpement-durable.gouv.fr' }
     - { key: Type, value: DIRID }
+    - { key: Territoire, value: [ZM-FX-Atl, ZM-FX-MMN] }
   description: |-
     ## Direction interrégionale de la mer - Nord-Atlantique, Manche-Ouest.
 
@@ -3608,6 +3737,7 @@ administration-centrale-ou-ministere_172160:
     - { key: Téléphone, value: '01 40 81 21 22' }
     - { key: 'Site internet', value: 'https://www.ecologie.gouv.fr' }
     - { key: Type, value: AC }
+    - { key: Territoire, value: [National] }
   description: |-
     ## Direction générale de l'aménagement, du logement et de la nature.
 
@@ -3623,6 +3753,7 @@ administration-centrale-ou-ministere_172170:
     - { key: Téléphone, value: '01 40 81 21 22' }
     - { key: 'Site internet', value: 'https://www.ecologie.gouv.fr' }
     - { key: Type, value: AC }
+    - { key: Territoire, value: [National] }
   description: |-
     ## Direction générale des infrastructures, des transports et de la mer.
 
@@ -3644,6 +3775,7 @@ administration-centrale-ou-ministere_172153:
     - { key: Téléphone, value: '01 40 81 21 22' }
     - { key: 'Site internet', value: 'https://www.ecologie.gouv.fr' }
     - { key: Type, value: AC }
+    - { key: Territoire, value: [National] }
   description: |-
     ## Direction générale de la prévention des risques.
 
@@ -3668,6 +3800,7 @@ administration-centrale-ou-ministere_172165:
     - { key: Téléphone, value: '01 40 81 21 22' }
     - { key: 'Site internet', value: 'https://www.ecologie.gouv.fr' }
     - { key: Type, value: AC }
+    - { key: Territoire, value: [National] }
   description: |-
     ## Direction générale de l'énergie et du climat.
 
@@ -3689,6 +3822,7 @@ administration-centrale-ou-ministere_178624:
     - { key: Téléphone, value: '01 40 81 13 00' }
     - { key: 'Site internet', value: 'https://www.statistiques.developpement-durable.gouv.fr' }
     - { key: Type, value: AC }
+    - { key: Territoire, value: [National] }
   description: |-
     ## Service des données et études statistiques.
 
@@ -3709,6 +3843,7 @@ ddt-2b033-01:
     - { key: Téléphone, value: '04 95 32 97 97' }
     - { key: 'Site internet', value: 'http://www.haute-corse.gouv.fr' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D2b] }
   description: |-
     ## Direction départementale des territoires - Haute-Corse.
 
@@ -3736,6 +3871,7 @@ ddt-2a004-01:
     - { key: Téléphone, value: '04 95 29 09 09' }
     - { key: 'Site internet', value: 'http://www.corse-du-sud.gouv.fr' }
     - { key: Type, value: DD }
+    - { key: Territoire, value: [D2a] }
   description: |-
     ## Direction départementale des territoires - Corse-du-Sud.
 
@@ -3762,6 +3898,7 @@ administration-centrale-ou-ministere_172120:
     - { key: Téléphone, value: '01 40 81 13 00' }
     - { key: 'Site internet', value: 'https://www.ecologie.gouv.fr' }
     - { key: Type, value: AC }
+    - { key: Territoire, value: [National] }
   description: |-
     ## Commissariat général au développement durable.
 

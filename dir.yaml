@@ -1,0 +1,168 @@
+title: organisation des DIR
+décret:
+  title: Décret n°2006-304 du 16 mars 2006 portant création et organisation des directions interdépartementales des routes
+  note: le décret ne correspond pas à la réalité
+  zonesCompétences:
+    IDF:
+      zc: Zone de défense de Paris
+      siège: Paris
+      territoire: Île-de-France
+      préfet: Préfet de police de Paris
+    Est:
+      zc: Zone de défense Est
+      siège: Metz
+      territoire: Alsace, Bourgogne, Champagne-Ardenne, Franche-Comté, Lorraine
+      préfet: Préfet de Lorraine, préfet de la Moselle
+    Nord:
+      zc: Zone de défense Nord
+      siège: Lille
+      territoire: Nord-Pas-de-Calais, Picardie
+      préfet: Préfet du Nord-Pas-de-Calais, préfet du Nord
+    Ouest:
+      zc: Zone de défense Ouest
+      siège: Rennes
+      territoire: Basse-Normandie, Bretagne, Centre, Haute-Normandie, Pays de la Loire
+      préfet: Préfet de Bretagne, préfet d'Ille-et-Vilaine
+    Atlantique:
+      zc: Zone de défense Sud-Ouest
+      siège: Bordeaux
+      territoire: Aquitaine, Limousin, Midi-Pyrénées, Poitou-Charentes
+      préfet: Préfet de l'Aquitaine, préfet de la Gironde
+    Méditerranée:
+      zc: Zone de défense Sud
+      siège: Marseille
+      territoire: Corse, Languedoc-Roussillon, Provence-Alpes-Côte d'Azur
+      préfet: Préfet de Provence-Alpes-Côte d'Azur, préfet des Bouches-du-Rhône
+    Centre-Est:
+      zc: Zone de défense Sud-Est
+      siège: Lyon
+      territoire: Auvergne, Rhône-Alpes
+      préfet: Préfet de Rhône-Alpes, préfet du Rhône
+    
+zones-de-défense2000:
+  décret: décret no 2000-555 du 21 juin 2000
+  liste:
+    Paris:
+      siège: Paris
+      territoire: Île-de-France
+      préfet: Préfet de police de Paris
+    Nord:
+      siège: Lille
+      territoire: Nord-Pas-de-Calais, Picardie
+      préfet: Préfet du Nord-Pas-de-Calais, préfet du Nord
+    Ouest:
+      siège: Rennes
+      territoire: Basse-Normandie, Bretagne, Centre, Haute-Normandie, Pays de la Loire
+      préfet: Préfet de Bretagne, préfet d'Ille-et-Vilaine
+    Sud-Ouest:
+      siège: Bordeaux
+      territoire: Aquitaine, Limousin, Midi-Pyrénées, Poitou-Charentes
+      préfet: Préfet de l'Aquitaine, préfet de la Gironde
+    Sud:
+      siège: Marseille
+      territoire: Corse, Languedoc-Roussillon, Provence-Alpes-Côte d'Azur
+      préfet: Préfet de Provence-Alpes-Côte d'Azur, préfet des Bouches-du-Rhône
+    Sud-Est:
+      siège: Lyon
+      territoire: Auvergne, Rhône-Alpes
+      préfet: Préfet de Rhône-Alpes, préfet du Rhône
+    Est:
+      siège: Metz
+      territoire: Alsace, Bourgogne, Champagne-Ardenne, Franche-Comté, Lorraine
+      préfet: Préfet de Lorraine, préfet de la Moselle
+annuaire:
+  DIRA: Atlantique
+  DIRCE: Centre-Est
+  DIRCO: Centre-Ouest
+  DIRE: Est
+  DiRIF: Ile de France
+  DIRMC: Massif Central
+  DIRMED: Méditerranée
+  DIRN: Nord
+  DIRNO: Nord-Ouest
+  DIRO: Ouest
+  DIRSO: Sud-Ouest
+
+sitesInternet:
+  Atlantique:
+    url: https://www.dir.atlantique.developpement-durable.gouv.fr/
+    note: Poitiers, La Rochelle, Royan, Arcachon, Angoulême, Pau, Somport
+    territoire: NAQ
+  Centre-Est:
+    url: https://www.dir.centre-est.developpement-durable.gouv.fr/
+    siège: Lyon
+    réseau: |
+      principalement sur 3 régions (Rhône-Alpes, Bourgogne, Auvergne)
+      et sur 12 départements (Allier, Ardèche, Aube, Côte-d’Or, Drôme, Isère, Loire, Nièvre, Rhône, Saône-et-Loire, Savoie
+      et Yonne).
+    territoire: ARA
+  Centre-Ouest:
+    url: https://www.dir.centre-ouest.developpement-durable.gouv.fr/qui-sommes-nous-r1.html
+    siège: Limoges
+    préfet: préfet de la Gironde
+    réseau: |
+      5 régions (Nouvelle Aquitaine, Centre-Val de Loire, mais aussi Pays de la Loire, Auvergne-Rhône-Alpes et Occitanie)
+      et 14 départements.
+  Est:
+    url: https://www.dir.est.developpement-durable.gouv.fr/
+    siège: Nancy
+    réseau: "2 régions: Grand Est et Bourgogne - Franche-Comté"
+  IDF:
+    url: https://www.enroute.ile-de-france.developpement-durable.gouv.fr/
+  Massif-Central:
+    url: https://www.dir.massif-central.developpement-durable.gouv.fr/
+    siège: Clermont-Ferrand
+    réseau: |
+      Il s’étend sur 8 départements :
+      - l’Ardèche (07),
+      - l’Aveyron (12),
+      - le Cantal (15),
+      - l’Hérault (34),
+      - la Haute-Loire (43),
+      - le Lot (46),
+      - la Lozère (48),
+      - le Puy-de-Dôme (63)
+  Méditerranée:
+    url: https://www.dir.mediterranee.developpement-durable.gouv.fr/
+    siège: Marseille
+    préfet: PACA
+    réseau: |
+      toutes les routes nationales des Alpes-de-Haute-Provence, des Hautes-Alpes, des Bouches-du-Rhône, du Gard, du Var
+      et du Vaucluse, et une partie du réseau national dans les départements de l’Hérault, de la Lozère et de l’Isère.
+  Nord:
+  Nord-Ouest:
+    url: https://www.dir.nord-ouest.developpement-durable.gouv.fr/
+    siège: Rouen
+    préfet: Normandie
+    réseau: |
+      couvre 11 départements répartis en 4 régions :
+          La Normandie,
+          le Centre-Val de Loire,
+          le Nord-Pas-de-Calais-Picardie,
+          et l’Île de France.
+  Ouest:
+    url: https://www.dir.ouest.developpement-durable.gouv.fr/
+    siège: Rennes
+    réseau: |
+      Bretagne + Nantes + Cholet
+  Sud-Ouest:
+    url: https://www.dir.sud-ouest.developpement-durable.gouv.fr/
+    préfet: Occitanie
+    siège: Toulouse
+    réseau: |
+      9 départements : Ariège, Aveyron, Gers, Gironde, Landes, Haute-Garonne, Hautes-Pyrénées, Pyrénées-Orientales et Tarn
+
+zones-de-compétence:
+  dirce: '01,03,07,10,21,26,38,42,58,69,71,73,74,89'
+  dirn: '02,08,51,59,60,62,80'
+  dirco: '03,16,18,19,23,24,36,37,47,49,79,86,87'
+  dirmed: '04,05,13,30,34,38,48,83,84'
+  dirmc: '07,12,15,34,43,46,48,63'
+  dirso: '09,31,32,33,40,65,66,81'
+  dirno: '14,27,28,37,41,50,60,61,76,78,80'
+  dira: '16,17,33,64,79,86'
+  diro: '22,29,35,44,49,53,56'
+  dire: '25,39,51,52,54,55,57,70,88,90'
+  dirif: '75,77,78,91,92,93,94,95'
+
+eof:
