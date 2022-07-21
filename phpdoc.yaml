@@ -1,0 +1,16 @@
+title: organisations Ecosphères - ajout des types
+doc: |
+
+  Les types sont:
+     - AC pour Administration centrale
+     - DR pour Directions régionales
+     - DIRID pour Directions inter-régionales et inter-départementales
+     - DD pour Directions départementales
+     - SOM pour Services d'Outre-Mer
+     - Op pour Opérateurs
+journal: |
+  21/7/2022:
+    - récupération du fichier https://github.com/ecolabdata/guichetdonnees/blob/alhyss-patch-1/organisations/organisations.json
+    - ajout des types par orgs.php
+    - mise à jour du fichier sur GitHub
+    
